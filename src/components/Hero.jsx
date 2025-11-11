@@ -1,6 +1,7 @@
 import React from "react";
 import { HERO_CONTENT } from "../assets/index";
 import ThomasProfile from "../assets/ThomasProfile.jpg";
+import PhotoCV from "../assets/PhotoCV.jpeg"
 import { motion } from "motion/react";
 
 const container = (delay) => ({
@@ -51,7 +52,7 @@ const Hero = () => {
               animate={{x:0, opacity: 1}}
               transition={{duration: 1, delay: 1.2}}
               className="w-[400px] lg:h-[550px] rounded-3xl"
-              src={ThomasProfile}
+              src={PhotoCV}
               alt="ThomasImg"
             />
           </div>
