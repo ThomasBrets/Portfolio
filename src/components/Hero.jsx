@@ -50,7 +50,7 @@ const Hero = () => {
               initial={{ x: 100, opacity: 0 }}
               animate={{x:0, opacity: 1}}
               transition={{duration: 1, delay: 1.2}}
-              className="w-[400px] lg:h-[550px] rounded-3xl"
+              className="w-[480px] lg:h-[550px] rounded-3xl"
               src={THCV}
               alt="ThomasImg"
             />
