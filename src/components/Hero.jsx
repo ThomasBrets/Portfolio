@@ -1,6 +1,5 @@
 import React from "react";
 import { HERO_CONTENT } from "../assets/index";
-import ThomasProfile from "../assets/ThomasProfile.jpg";
 import THCV from "../assets/THCV.jpeg"
 import { motion } from "motion/react";
 
@@ -52,7 +51,7 @@ const Hero = () => {
               animate={{x:0, opacity: 1}}
               transition={{duration: 1, delay: 1.2}}
               className="w-[400px] lg:h-[550px] rounded-3xl"
-              src={PhotoCV}
+              src={THCV}
               alt="ThomasImg"
             />
           </div>
