@@ -1,7 +1,7 @@
 import React from "react";
 import { HERO_CONTENT } from "../assets/index";
 import ThomasProfile from "../assets/ThomasProfile.jpg";
-import PhotoCV from "../assets/PhotoCV.jpeg"
+import THCV from "../assets/THCV.jpeg"
 import { motion } from "motion/react";
 
 const container = (delay) => ({
