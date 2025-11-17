@@ -24,9 +24,7 @@ const AboutText = () => (
     practico inglés semanalmente para mejorar mi comunicación profesional.
     <br />
     <br />
-    Soy una persona responsable, dedicada y colaborativa, siempre en busca de
-    nuevos desafíos. Mi objetivo es conseguir mi primera experiencia laboral en
-    IT y seguir creciendo como <span className="text-purple-400 font-bold">
+    Soy una persona responsable, dedicada y colaborativa, siempre en busca de nuevos desafíos. Después de varios años formándome y desarrollando proyectos reales, mi objetivo es incorporarme a un equipo donde pueda aportar valor, seguir aprendiendo junto a otros profesionales y seguir creciendo como <span className="text-purple-400 font-bold">
       desarrollador, profesional y persona
     </span>
     .
