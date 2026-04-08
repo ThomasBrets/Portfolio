@@ -8,7 +8,8 @@ import coderhouse from "./courses/coderhouse.png";
 import plataforma5 from "./courses/plataforma5.png";
 import google from "./courses/google.png";
 
-export const HERO_CONTENT = `Soy Thomas, Full Stack Developer de 25 años, apasionado por crear aplicaciones modernas y escalables. Me destaco por mi aprendizaje constante, mis habilidades para trabajar en equipo y mi compromiso por seguir creciendo como desarrollador, profesional y persona.`;
+export const HERO_CONTENT = `Full Stack Developer · Backend especializado
+Node.js · React · MongoDB · TypeScript`;
 
 // src/assets/index.js
 // export const ABOUT_TEXT = () => (

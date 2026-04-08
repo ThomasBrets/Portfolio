@@ -3,31 +3,53 @@ import React from "react";
 
 const AboutText = () => (
   <>
-    Hola, soy Thomas, Full Stack Developer de 25 años con una gran pasión por el
-    desarrollo backend y la tecnología. Mi camino comenzó en 2020 cuando
-    descubrí la programación mientras estudiaba Administración de Empresas. En
-    2021 completé un bootcamp intensivo de más de{" "}
-    <span className="text-purple-400 font-bold">800 horas</span> en desarrollo web
-    full-stack, donde aprendí tecnologías como{" "}
+    Hola, soy Thomas, Full Stack Developer especializado en{" "}
+    <span className="text-purple-400 font-bold">backend</span> con pasión por
+    construir aplicaciones escalables y bien estructuradas. Creo en escribir
+    código que no solo funcione, sino que sea{" "}
     <span className="text-purple-400 font-bold">
-      JavaScript, Node.js, Express, React, MongoDB, SQL y TailwindCSS
-    </span>
-    , además de desarrollar habilidades blandas para trabajar en equipo bajo<span className="text-purple-400 font-bold"> metodología ágil Scrum.</span>.
-    <br />
-    <br />
-    Desde entonces, he seguido formándome de manera autodidacta, creando
-    proyectos, mejorando mi portfolio y ampliando mis conocimientos. Realicé
-    cursos avanzados de <span className="text-purple-400 font-bold">
-      inteligencia artificial, ciberseguridad </span> (certificación de Google) y
-      actualmente estoy cursando una formación <span className="text-purple-400 font-bold">avanzada en Backend
-    </span> (Express, MongoDB, patrones de diseño, escalabilidad y testing). También
-    practico inglés semanalmente para mejorar mi comunicación profesional.
-    <br />
-    <br />
-    Soy una persona responsable, dedicada y colaborativa, siempre en busca de nuevos desafíos. Después de varios años formándome y desarrollando proyectos reales, mi objetivo es incorporarme a un equipo donde pueda aportar valor, seguir aprendiendo junto a otros profesionales y seguir creciendo como <span className="text-purple-400 font-bold">
-      desarrollador, profesional y persona
+      mantenible, testeable y documentado
     </span>
     .
+    <br />
+    <br />
+    Mi proyecto principal es{" "}
+    <span className="text-purple-400 font-bold">Pipe E-commerce</span> —
+    aplicación fullstack en producción con{" "}
+    <span className="text-purple-400 font-bold">arquitectura en 6 capas</span>,{" "}
+    <span className="text-purple-400 font-bold">
+      50+ tests de integración (78% coverage)
+    </span>
+    , autenticación{" "}
+    <span className="text-purple-400 font-bold">JWT con cookies HTTP-only</span>{" "}
+    y documentación{" "}
+    <span className="text-purple-400 font-bold">Swagger/OpenAPI</span> pública.
+    También desarrollé el sitio institucional de{" "}
+    <span className="text-purple-400 font-bold">Necoruta S.A.</span>, empresa de
+    transporte logístico, actualmente en producción.
+    <br />
+    <br />
+    Me formé en{" "}
+    <span className="text-purple-400 font-bold">
+      Plataforma 5 (800 hs, 2021)
+    </span>{" "}
+    y continúo aprendiendo con cursos avanzados de{" "}
+    <span className="text-purple-400 font-bold">Backend</span>,{" "}
+    <span className="text-purple-400 font-bold">TypeScript</span> e{" "}
+    <span className="text-purple-400 font-bold">Inteligencia Artificial</span>.
+    También practico inglés semanalmente para comunicarme en entornos
+    profesionales internacionales.
+    <br />
+    <br />
+    Disponible para posiciones{" "}
+    <span className="text-purple-400 font-bold">
+      junior backend o fullstack
+    </span>{" "}
+    — remoto, híbrido o presencial en{" "}
+    <span className="text-purple-400 font-bold">
+      Mar del Plata o Buenos Aires
+    </span>
+    . También abierto a proyectos freelance.
   </>
 );
 
