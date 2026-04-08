@@ -123,7 +123,7 @@ export const PROJECTS = [
     image: Pipe,
     description:
       "E-commerce fullstack profesional con arquitectura en 6 capas y testing exhaustivo (50+ tests, 78% coverage). Implementa autenticación JWT con HTTP-only cookies, sistema de roles (admin/user), carrito de compras con cálculos en tiempo real, panel de administración y envío automático de emails transaccionales. Frontend con dark mode persistente, animaciones fluidas y diseño 100% responsive. Documentación completa con Swagger/OpenAPI 3.0. Deploy en Vercel (frontend) y Render (backend) con CI/CD automático.",
-    technologies: ["Node.js, Express, MongoDB, React, TailwindCSS, Jest, Supertest, Framer Motion, Swagger, Resend"],
+    technologies: ["Node.js", "Express", "MongoDB", "React", "TailwindCSS", "Jest", "Supertest", "Framer Motion", "Swagger", "Resend"],
     web: "https://pipe-front.vercel.app/",
     source_code_links: [
       {
