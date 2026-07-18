@@ -3,19 +3,23 @@ import React from "react";
 
 const AboutText = () => (
   <>
-    Hola, soy Thomas, Full Stack Developer especializado en{" "}
-    <span className="text-purple-400 font-bold">backend</span> con pasión por
-    construir aplicaciones escalables y bien estructuradas. Creo en escribir
-    código que no solo funcione, sino que sea{" "}
+    Hola, soy Thomas, Full Stack Developer con foco en{" "}
+    <span className="text-purple-400 font-bold">backend</span>. Recientemente
+    completé{" "}
+    <span className="text-purple-400 font-bold">Amplix</span>, un programa de
+    aceleración laboral donde trabajé en equipo en{" "}
+    <span className="text-purple-400 font-bold">FS-0002</span>, un blog
+    fullstack de noticias tecnológicas hoy en producción, con metodología ágil
+    real, PRs, code reviews y sprints. Obtuve la certificación{" "}
     <span className="text-purple-400 font-bold">
-      mantenible, testeable y documentado
+      JavaScript Full Stack JOB-READY
     </span>
     .
     <br />
     <br />
-    Mi proyecto principal es{" "}
-    <span className="text-purple-400 font-bold">Pipe E-commerce</span> —
-    aplicación fullstack en producción con{" "}
+    También construí{" "}
+    <span className="text-purple-400 font-bold">Pipe E-commerce</span>, una
+    aplicación fullstack con{" "}
     <span className="text-purple-400 font-bold">arquitectura en 6 capas</span>,{" "}
     <span className="text-purple-400 font-bold">
       50+ tests de integración (78% coverage)
@@ -24,7 +28,7 @@ const AboutText = () => (
     <span className="text-purple-400 font-bold">JWT con cookies HTTP-only</span>{" "}
     y documentación{" "}
     <span className="text-purple-400 font-bold">Swagger/OpenAPI</span> pública.
-    También desarrollé el sitio institucional de{" "}
+    Y el sitio institucional de{" "}
     <span className="text-purple-400 font-bold">Necoruta S.A.</span>, empresa de
     transporte logístico, actualmente en producción.
     <br />
@@ -37,15 +41,11 @@ const AboutText = () => (
     <span className="text-purple-400 font-bold">Backend</span>,{" "}
     <span className="text-purple-400 font-bold">TypeScript</span> e{" "}
     <span className="text-purple-400 font-bold">Inteligencia Artificial</span>.
-    También practico inglés semanalmente para comunicarme en entornos
-    profesionales internacionales.
     <br />
     <br />
     Disponible para posiciones{" "}
-    <span className="text-purple-400 font-bold">
-      junior backend o fullstack
-    </span>{" "}
-    — remoto, híbrido o presencial en{" "}
+    <span className="text-purple-400 font-bold">junior backend o fullstack</span>{" "}
+    remoto, híbrido o presencial en{" "}
     <span className="text-purple-400 font-bold">
       Mar del Plata o Buenos Aires
     </span>
